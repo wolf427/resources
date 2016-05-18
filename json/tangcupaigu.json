@@ -1,0 +1,66 @@
+{
+    "dish_img": "resources/img/tangcupaigu.jpg",
+    "dish_name": "糖醋排骨",
+    "dish_describe": "来份美味的糖醋排骨吧，家里的味道",
+    "need_time": "40min",
+    "difficulty": "medium",
+    "calories": "322",
+    "ingredients": {
+        "主料": [
+            {
+                "name": "猪肋排",
+                "count": "500g"
+            },
+            {
+                "name": "五花肉",
+                "count": "50g"
+            }
+        ],
+        "辅料": [
+            {
+                "name": "葱姜",
+                "count": "适量"
+            },
+            {
+                "name": "大料",
+                "count": "3个"
+            },
+            {
+                "name": "白酒",
+                "count": "3ml"
+            },
+            {
+                "name": "白糖",
+                "count": "15g"
+            },
+            {
+                "name": "香醋",
+                "count": "15ml"
+            },
+            {
+                "name": "油",
+                "count": "适量"
+            },
+            {
+                "name": "花椒",
+                "count": "30粒"
+            },
+            {
+                "name": "香叶",
+                "count": "适量"
+            },
+            {
+                "name": "盐",
+                "count": "适量"
+            },
+            {
+                "name": "红糖",
+                "count": "15g"
+            },
+            {
+                "name": "酱油",
+                "count": "15ml"
+            }
+        ]
+    }
+}
