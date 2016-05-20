@@ -1,66 +1,62 @@
-{
-    "dish_img": "resources/img/tangcupaigu.jpg",
-    "dish_name": "ÌÇ´×ÅÅ¹Ç",
-    "dish_describe": "À´·İÃÀÎ¶µÄÌÇ´×ÅÅ¹Ç°É£¬¼ÒÀïµÄÎ¶µÀ",
-    "need_time": "40min",
-    "difficulty": "medium",
-    "calories": "322",
-    "ingredients": {
-        "Ö÷ÁÏ": [
-            {
-                "name": "ÖíÀßÅÅ",
-                "count": "500g"
-            },
-            {
-                "name": "Îå»¨Èâ",
-                "count": "50g"
-            }
-        ],
-        "¸¨ÁÏ": [
-            {
-                "name": "´Ğ½ª",
-                "count": "ÊÊÁ¿"
-            },
-            {
-                "name": "´óÁÏ",
-                "count": "3¸ö"
-            },
-            {
-                "name": "°×¾Æ",
-                "count": "3ml"
-            },
-            {
-                "name": "°×ÌÇ",
-                "count": "15g"
-            },
-            {
-                "name": "Ïã´×",
-                "count": "15ml"
-            },
-            {
-                "name": "ÓÍ",
-                "count": "ÊÊÁ¿"
-            },
-            {
-                "name": "»¨½·",
-                "count": "30Á£"
-            },
-            {
-                "name": "ÏãÒ¶",
-                "count": "ÊÊÁ¿"
-            },
-            {
-                "name": "ÑÎ",
-                "count": "ÊÊÁ¿"
-            },
-            {
-                "name": "ºìÌÇ",
-                "count": "15g"
-            },
-            {
-                "name": "½´ÓÍ",
-                "count": "15ml"
-            }
-        ]
-    }
+ï»¿{
+	"dish_img": "resources/img/tangcupaigu.jpg",
+	"dish_name": "ç³–é†‹æ’éª¨",
+	"dish_describe": "æ¥ä»½ç¾å‘³çš„ç³–é†‹æ’éª¨å§ï¼Œå®¶é‡Œçš„å‘³é“",
+	"need_time": "40min",
+	"difficulty": "medium",
+	"calories": "322",
+	"ingredients": {
+		"ä¸»æ–™": [{
+			"name": "çŒªè‚‹æ’",
+			"count": "500g"
+		},
+		{
+			"name": "äº”èŠ±è‚‰",
+			"count": "50g"
+		}],
+		"è¾…æ–™": [{
+			"name": "è‘±å§œ",
+			"count": "é€‚é‡"
+		},
+		{
+			"name": "å¤§æ–™",
+			"count": "3ä¸ª"
+		},
+		{
+			"name": "ç™½é…’",
+			"count": "3ml"
+		},
+		{
+			"name": "ç™½ç³–",
+			"count": "15g"
+		},
+		{
+			"name": "é¦™é†‹",
+			"count": "15ml"
+		},
+		{
+			"name": "æ²¹",
+			"count": "é€‚é‡"
+		},
+		{
+			"name": "èŠ±æ¤’",
+			"count": "30ç²’"
+		},
+		{
+			"name": "é¦™å¶",
+			"count": "é€‚é‡"
+		},
+		{
+			"name": "ç›",
+			"count": "é€‚é‡"
+		},
+		{
+			"name": "çº¢ç³–",
+			"count": "15g"
+		},
+		{
+			"name": "é…±æ²¹",
+			"count": "15ml"
+		}]
+	}
 }
